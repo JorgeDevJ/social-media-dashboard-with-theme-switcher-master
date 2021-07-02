@@ -198,7 +198,7 @@ main.container_tarjet_m{
 }
 .views span{
     font-weight: 700;
-    font-size: 40px;
+    font-size: 30px;
     color: var(--Text);
     
 }
@@ -289,7 +289,7 @@ footer.attribution{
         margin-bottom: 5rem;
     }
     .views p{
-        margin-bottom: 3rem;
+        margin-bottom: 4rem;
     }
     .cant_today__down{
         margin-top: 5.5rem;
