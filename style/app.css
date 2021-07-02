@@ -166,7 +166,7 @@ main.container_tarjet_m{
     justify-content: center;
 }
 
-.cont_follower h3{
+.cont_follower h2{
     font-size: 60px;
     color: var(--Text);
 }
