@@ -206,7 +206,7 @@ main.container_tarjet_m{
 }
 .views p{
     font-size: 17px;
-    margin-bottom: 4rem;
+    margin-bottom: 5rem;
 }
 .tarjet__down{
     padding: 3rem;
@@ -280,7 +280,7 @@ footer.attribution{
     /*down*/
     .tarjet__down{
         margin-bottom: 0;
-        height: 15rem;
+        height: 14rem;
     }
     .container_pos_dow_data{
         display: grid;
@@ -291,7 +291,7 @@ footer.attribution{
         margin-bottom: 5rem;
     }
     .cant_today__down{
-        margin-top: 5.5rem;
+        margin-top: 6.5rem;
     }
     
 }
