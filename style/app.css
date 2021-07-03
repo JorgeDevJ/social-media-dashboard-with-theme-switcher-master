@@ -206,10 +206,10 @@ main.container_tarjet_m{
 }
 .views p{
     font-size: 17px;
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
 }
 .tarjet__down{
-    padding: 2rem 3rem;
+    padding: 3rem;
     border-radius: 4px;
     background-color: var(--Light-Grayish-Blue-Card-BG) ;
     /* text-align: center; */
@@ -291,7 +291,7 @@ footer.attribution{
         margin-bottom: 5rem;
     }
     .cant_today__down{
-        margin-top: 6.5rem;
+        margin-top: 4.5rem;
     }
     
 }
