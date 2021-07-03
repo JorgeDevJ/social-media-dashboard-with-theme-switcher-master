@@ -209,7 +209,7 @@ main.container_tarjet_m{
     margin-bottom: 5rem;
 }
 .tarjet__down{
-    padding: 3rem;
+    padding: 2rem 3rem;
     border-radius: 4px;
     background-color: var(--Light-Grayish-Blue-Card-BG) ;
     /* text-align: center; */
