@@ -159,7 +159,7 @@ main.container_tarjet_m{
 .social_icon span{
     margin-left: 10px;
     font-weight: 700;
-    color: var(--Text);
+    color: var(--Dark-Grayish-Blue-Text);
 }
 .container_data_social{
     display: flex;
